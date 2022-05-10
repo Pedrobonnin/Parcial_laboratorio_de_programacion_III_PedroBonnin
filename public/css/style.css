@@ -1,0 +1,56 @@
+
+html,body{ 
+    padding: 10%;
+    background-image: url(https://k33.kn3.net/taringa/6/1/E/B/8/8/BabyRage/894.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.conteiner{
+    text-align: center;
+    background: linear-gradient(rgba(98, 98, 102, 0.644),rgba(11, 233, 241, 0.247));
+    border-radius: 15px;
+    width: 50%;       
+    height: 40%;
+    top: 30%;
+    left: 35%;
+    margin: 0 auto;
+    
+}
+
+h1{
+    color: #d6cdcd;
+    width: 100%;
+    text-align: center;
+   }
+
+h2{
+    color: #d6cdcd;
+    width: 100%;
+    text-align: center;
+}
+
+#tarea-lista{
+    color: #ece5e5;
+    width: 80%;
+}
+
+.form_input{
+    width: 90%;
+    background: none;
+    color: rgb(227, 228, 228);
+    font-size: 1rem;
+    padding: .6em .3em;
+    border: none;
+    outline-style:none ;
+}
+
+.form_lebel{
+    position: relative;
+    padding: .3em .3em;
+    border: none;
+    background-color: rgba(136, 212, 212, 0.664);
+    border-radius: 2px;
+}
