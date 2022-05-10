@@ -46,17 +46,8 @@ export default class ConsumoApi extends Component {
             });
           });
       });
-          
-
-
     }
-
-    
-    
-
-
-
-
+  //soy un comentario
   //renderizado
   render() {
     return (
